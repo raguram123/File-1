@@ -1,0 +1,39 @@
+body{
+  background-color:lightgrey;
+  background-image: url("https://wallpapercave.com/wp/wp3439738.jpg");
+  
+}
+
+h1,p{
+    text-align: center;
+}
+
+.form-control{
+    padding: 10px;
+    margin-left: 900px;
+    border-radius: 20px;
+    width: 300px;
+    color: black;
+    font-size: large;
+    font-style: inherit;
+    font-weight: 400;
+    
+}
+
+.form-group{
+  text-align: center;
+  
+}
+
+.btn-primary{
+    margin-left:950px ;
+}
+.card{
+    
+    background-color:hotpink;
+    flex-direction: column;
+    margin-left: 300px;
+    border-radius: 20px;
+    
+    
+}
